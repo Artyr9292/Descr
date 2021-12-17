@@ -2,7 +2,7 @@
 
 //Делаем домашку
 
-let numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?");
+let numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", '');
 //console.log('numberOfFilms');
 
 
@@ -46,7 +46,7 @@ if (personalMovieDB.count < 10) {
 
 console.log(personalMovieDB);
 
+//2домашка 4 задание
 
-let num = 6;
-    num++;
-console.log(num);
+
+
