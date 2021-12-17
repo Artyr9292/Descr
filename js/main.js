@@ -46,14 +46,4 @@ if (personalMovieDB.count < 10) {
 
 console.log(personalMovieDB);
 
-<<<<<<< HEAD
-//2домашка 4 задание
 
-
-
-=======
-
-let num = 6;
-    num++;
-console.log(num);
->>>>>>> 74dd7a7e7d29b30aae2971859ae3b49457e92509
