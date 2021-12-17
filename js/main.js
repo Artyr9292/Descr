@@ -45,3 +45,8 @@ if (personalMovieDB.count < 10) {
 // ****************** //
 
 console.log(personalMovieDB);
+
+
+let num = 6;
+    num++;
+console.log(num);
